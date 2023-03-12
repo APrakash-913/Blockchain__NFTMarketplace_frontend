@@ -1,9 +1,12 @@
-1. HOME page
+<!-- 1. HOME page
     1. Show recently listed NFTs
         1. if u own the NFT, you can update listing
         2. if not, u can buy the NFT
 2. SELL page
-    1. u can list ur NFT on the Marketplace
+    1. u can list ur NFT on the Marketplace -->
+
+1. Index NFT using TheGraph
+2. read them from TheGraph
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
